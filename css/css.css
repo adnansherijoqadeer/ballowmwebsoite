@@ -1,0 +1,119 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.hero-section{
+background-color: #7DFDFE;
+}
+
+.navbar{
+    padding-top: 23px;
+}
+.nav-text{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+margin-right: 40px !important;
+padding-top: 43px;
+}
+.left-menu{
+padding-top: 23px;
+
+}
+.nav-img{
+    padding-top: 31px;
+}
+/* <!-- hero-section center contant --> */
+.Wayve{
+display: flex;
+flex-direction: column;
+margin:127px auto;
+}
+.Wayve h2{
+padding-top: 30px;
+font-weight: 800;
+font-size: 32px;
+line-height: 48px;
+letter-spacing: 0.47em;
+}
+.wayve-wayve{
+    width: auto;
+    margin: auto;
+    height: 165px;
+}
+.social-icon{
+    margin: auto;
+}
+.social-icon img{
+    margin-left: 30px;
+    padding: 40px 0px 357px 0px;
+}
+.footer-titok{
+    margin-right: 20px;
+}
+
+.wayve-row{
+   display: flex;
+   justify-content: space-between;
+}
+
+.wayve-contant h1{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 800;
+font-size: 54px;
+line-height: 81px;
+}
+.wayve-mobile-chate{
+    transform: translateY(-272px);
+}
+.everyone{
+    background-color: #7DFDFE;
+    padding: 70px 0px;
+    margin-bottom: 148px;
+}
+.wayve-everyone h2{
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 72px;
+}
+
+ .identity-main{
+    
+    width: 100%;
+}
+.identity-main h1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 54px;
+    line-height: 81px;
+}
+
+.chat-img{
+margin-bottom: 2rem; 
+width: 100%;
+
+}
+.wayve-footer{
+    padding: 30px 0px;
+}
+.app-store {
+ margin-bottom: 28px;
+}
+.wayve-mb{
+    margin-bottom: 120px;
+}
+
+.footer-icons {
+    display: flex !important;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+

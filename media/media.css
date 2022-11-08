@@ -1,0 +1,185 @@
+@media (max-width: 576px) { 
+    
+    .Wayve {
+        margin: 10px auto;
+    }
+    .Wayve h2{
+        font-size: 21px;
+        letter-spacing: 0em;
+        padding-top: 0px;
+
+        }
+        .wayve-mb {
+            margin-bottom: 2rem;
+        }
+        .navbar{
+            display: flex;
+            flex-direction: column;
+        }
+        .nav-img{
+            padding-top: 0px;
+        }
+        .wayve img{
+            height: 46px;
+        }
+        .social-icon img {
+            margin-left:15px;
+            padding: 0px 0px 100px 0px;
+        }
+        .wayve-mb{
+            margin-bottom: 2rem !important;
+        }
+        .wayve-contant h1{
+            font-size: 34px;
+            margin-top: 1rem;
+            font-weight: 500;
+            line-height: 60px;
+            margin-top: 2rem;
+        }
+        .wayve-everyone h2{
+            margin: 1rem 0px;
+            font-size: 30px;
+            font-weight: 500;
+            line-height: 55px;
+        }
+        .identity-main h1 {
+            font-size: 34px;
+            font-weight: 500;
+            line-height: 60px;
+        }
+        .wayve-footer {
+            padding: 0px 0px;
+        }
+        .footer-icons{
+            display: flex;
+            margin: auto;
+            margin-top: 1rem;
+        }
+        .footer-titok{
+           
+            width: 30px;
+            height: 30px;
+        }
+        .footer-inta{
+            width: 30px;
+            height: 30px;
+        }
+        .copy-right img{
+            width: 100%;
+        }
+
+        .wayve-double-imgs{
+            margin-bottom: 2rem;
+        }
+        .wayve-iphone{
+          margin-bottom: 2rem;
+        }
+        .wayve-iphone img{
+          margin-top: 2rem;
+        }
+        .chat-img {
+            margin-bottom: 2px;
+        }
+        .everyone {
+            padding: 0px 0px;
+            margin-bottom: 2rem;
+        }
+        .wayve-mb{
+            margin-bottom: 2px;
+        }
+
+        .nav-text {
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 34px;
+            line-height: 40px;
+            margin-right: 0px !important;
+            padding-top: 23px;
+        }
+ }
+
+@media (max-width: 768px) { 
+    .wayve-row{
+        text-align: center;
+        margin: auto;
+    }
+    .social-icon img {
+   
+        margin-bottom: 0px !important;
+        
+    }
+    .wayve-mobile-chate{
+        transform: translatey( 0px) !important;
+    }
+   
+
+    /* identity section start  */
+   
+    .identity-main {
+        text-align: center;
+    }
+    .everyone {
+        padding: 0px 0px;
+        margin-bottom: 4rem;
+    }
+   
+ }
+
+@media (max-width: 992px) { 
+    .Wayve{
+        margin-bottom: 2rem;
+    }
+    .wayve-iphone img{
+        width: 306px;
+    height: 500px;
+    }
+    .wayve-row{
+        text-align: center;
+        margin: auto;
+    }
+    .wayve-mobile-chate{
+        transform: translateY(-117px);
+    }
+    .social-icon img {
+        margin-left:15px;
+        margin-bottom: 50px;
+        padding: 0px 0px 100px 0px;
+    }
+    .wayve-mobile-chate img{
+        margin-bottom: 2rem;
+    }
+    .wayve-contant h1{
+        margin-bottom: 2rem;
+    }
+    .everyone {
+        background-color: #7DFDFE;
+        padding: 20px 0px;
+        margin-bottom: 2rem;
+    }
+    .wayve-mb {
+        margin-bottom: 84px;
+    }
+    .wayve-row{
+        margin-bottom: 2rem;
+    }
+    .wayve-chat-contaxt {
+        margin-bottom: 4rem !important;
+    }
+    .identity-main h1{
+        margin-top: 2rem;
+    }
+    .reveal-main{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+ }
+
+ 
+
+@media (min-width: 1200px) { 
+    .wayve-iphone img{
+        width: 426px;
+    height: 865px;
+    }
+ }
